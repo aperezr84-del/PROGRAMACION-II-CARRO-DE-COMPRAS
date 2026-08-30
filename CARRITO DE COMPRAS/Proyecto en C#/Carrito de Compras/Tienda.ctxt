@@ -1,0 +1,18 @@
+#BlueJ class context
+#Sun Aug 30 14:18:34 CST 2026
+comment0.target=Tienda
+comment1.target=Tienda()
+comment2.params=p
+comment2.target=void agregarProducto(Producto)
+comment3.params=c
+comment3.target=void agregarCliente(Cliente)
+comment4.params=v
+comment4.target=void agregarVenta(Venta)
+comment5.params=codigo
+comment5.target=Producto buscarProducto(int)
+comment6.params=id
+comment6.target=Cliente buscarCliente(int)
+comment7.target=void mostrarProductos()
+comment8.target=void mostrarClientes()
+comment9.target=void mostrarVentas()
+numComments=10

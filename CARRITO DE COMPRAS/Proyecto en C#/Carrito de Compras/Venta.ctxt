@@ -1,0 +1,10 @@
+#BlueJ class context
+#Sun Aug 30 14:17:47 CST 2026
+comment0.target=Venta
+comment1.params=idVenta cliente
+comment1.target=Venta(int, Cliente)
+comment2.params=detalle
+comment2.target=void agregarDetalle(DetalleVenta)
+comment3.target=double calcularTotal()
+comment4.target=void mostrarVenta()
+numComments=5
